@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    color: blue;
+    background-color: goldenrod;
+}
+
+.header{
+    display : flex;
+    justify-content: space-between;
+    background-color: gold;
+}
+
+
+
+
+.items{
+    text-align: center;
+    background-color: goldenrod;
+}
+
+body{
+    background-color: #000000;
+}

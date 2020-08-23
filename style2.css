@@ -1,0 +1,22 @@
+
+.header{
+    text-align: center;
+    color: darkred;
+    background: gold;
+   
+}
+
+.grid{
+    display : flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+
+p,h2{
+    color: #ff7;
+}
+
+body{
+    background-color: #888888;
+}
